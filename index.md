@@ -21,9 +21,10 @@ Syntax highlighted code block
 4. Repetition
 f. Inconsistency
 5. The Number 5
+6. **PEOPLE YELLING**
+7. _Italics_
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
