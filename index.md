@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+# George Samra's First CS193 Homework
 Hello World!
 
 ### Markdown
