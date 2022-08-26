@@ -8,12 +8,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# My Website Editor
-## Header 2
-### Header 3
+# Some of My Favorite Things About CS 193
 
-- Bulleted
-- List
+- The Teachers
+- The content
+- The chance to understand things
+
+# Things I Hate
+1. Lists
+2. Irony
+3. Lists
+4. Repetition
+f. Inconsistency
+5. The Number 5
 
 1. Numbered
 2. List
